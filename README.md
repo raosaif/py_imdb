@@ -4,7 +4,7 @@ py_imdb Extract movies/tv-series/documentaries information from IMDB using Beaut
 
 Comman-Line Example
 -------------------
-    $ ./py_imdb [-l imdblink] [-j json_filename] [-h help]  #context menu option to download subtitles of a movie file
+    $ ./py_imdb [-l imdblink] [-j json_filename] [-h help] 
    
 Sample Outputs
 --------------
