@@ -1,0 +1,585 @@
+{
+    "total_seasons": 2,
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "Seasons": [
+        {
+            "season-1": [
+                {
+                    "episode_description": "Joey moves to Los Angeles to try his luck in Hollywood. His nephew, Michael, is thinking about living with him to get out of his mother's house, Joey's sister Gina.",
+                    "episode_num": 1,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616325/?ref_=ttep_ep1",
+                    "realease_date": "9 Sep. 2004",
+                    "episode_score_votes": 265,
+                    "rating": 7.5,
+                    "season_num": 1,
+                    "episode_name": "Pilot"
+                },
+                {
+                    "episode_description": "Joey and Gina try to help Michael with the ladies.",
+                    "episode_num": 2,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616317/?ref_=ttep_ep2",
+                    "realease_date": "16 Sep. 2004",
+                    "episode_score_votes": 214,
+                    "rating": 7.3,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Student"
+                },
+                {
+                    "episode_description": "Joey throws a party to get to know his neighbors.",
+                    "episode_num": 3,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616308/?ref_=ttep_ep3",
+                    "realease_date": "23 Sep. 2004",
+                    "episode_score_votes": 214,
+                    "rating": 7.4,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Party"
+                },
+                {
+                    "episode_description": "Joey wants to join Michael's book club so he can flirt with some of hot members. Gina wants to try hairdressing for celebrities.",
+                    "episode_num": 4,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616294/?ref_=ttep_ep4",
+                    "realease_date": "30 Sep. 2004",
+                    "episode_score_votes": 199,
+                    "rating": 7.4,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Book Club"
+                },
+                {
+                    "episode_description": "Joey is an understudy in three different plays. The lead actor from each play, cannot go on, Joey has to figure a way to be in all three plays when they're all on at the same time, in different locations.",
+                    "episode_num": 5,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616309/?ref_=ttep_ep5",
+                    "realease_date": "7 Oct. 2004",
+                    "episode_score_votes": 203,
+                    "rating": 7.4,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Perfect Storm"
+                },
+                {
+                    "episode_description": "When Michael gets sick, Gina takes care of him. This bothers Joey too, because now his sister is around all the time. Joey meets the same actor at his auditions over and over again but Joey doesn't realize is that this guys screws him, so that Joey doesn't get the parts.",
+                    "episode_num": 6,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616307/?ref_=ttep_ep6",
+                    "realease_date": "14 Oct. 2004",
+                    "episode_score_votes": 197,
+                    "rating": 7.3,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Nemesis"
+                },
+                {
+                    "episode_description": "Alex's husband visits, and is a little jealous when he finds out Alex is friends with Joey. After they meet, her husband is convinced that Joey's no threat to his relationship with Alex.",
+                    "episode_num": 7,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616303/?ref_=ttep_ep7",
+                    "realease_date": "21 Oct. 2004",
+                    "episode_score_votes": 192,
+                    "rating": 7.3,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Husband"
+                },
+                {
+                    "episode_description": "Joey is excited when Gina tells she expects a visit from her New York friend Donna Di Gregorio, the only one who impressed Joey too much to seduce her as a teenager, hot and just dumb enough. Michael is surprised to see on old videos he was talented for baseball at age five, but Gina decided to pull him out of Little League as physically too dangerous, thus setting him on the course to life-long nerdiness as his talent is meanwhile totally gone. The Tribbianis soon find out Donna's marriage has recently gone to the dogs, but Gina makes Joey promise to leave her alone....",
+                    "episode_num": 8,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616297/?ref_=ttep_ep8",
+                    "realease_date": "4 Nov. 2004",
+                    "episode_score_votes": 197,
+                    "rating": 7.4,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Dream Girl: Part 1"
+                },
+                {
+                    "episode_description": "Gina tells Joey Donna's husband Ron wants her back, but she and Michael advise him to fight now Ron isn't there yet. Donna promises Joey a week to prove himself the better choice by arranging a romantic week in a Santa Barabara hotel recommended by Gina who was happy there- with Michael. Alex wouldn't believe the Tribbiani boys she gets off lightly even with traffic fines because of her looks, but Howard giving her for free a broken robot he wouldn't sell for $30 to sweet Michael confirms she's a hot girl, a morale booster and a new world of perks... When Ron turns up...",
+                    "episode_num": 9,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616298/?ref_=ttep_ep9",
+                    "realease_date": "11 Nov. 2004",
+                    "episode_score_votes": 191,
+                    "rating": 7.2,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Dream Girl: Part 2"
+                },
+                {
+                    "episode_description": "To get an audition for a new show, Joey pretends he went to college with one of the producers.",
+                    "episode_num": 10,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616291/?ref_=ttep_ep10",
+                    "realease_date": "18 Nov. 2004",
+                    "episode_score_votes": 200,
+                    "rating": 7.7,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Big Audition"
+                },
+                {
+                    "episode_description": "Joey looks forward to being a judge on the Miss Southwestern USA beauty pageant in Las Vegas, asked by Bobie instead of Corbin Bernsen. Alex finds it degrading but is convinced to join by one of the perks, C\u00e9line Dion concert tickets. Gina was eager to come, believed they'd have to force Michael but is delighted when her nerdy son turns out to be a casino regular under the alias Dr. Rodriguez, using a mathematical blackjack system. Joey sleeps with a beauty before realizing she's finalist Miss Laughlin, Gina encourages his solution: do them all, but there is a teen ...",
+                    "episode_num": 11,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616313/?ref_=ttep_ep11",
+                    "realease_date": "2 Dec. 2004",
+                    "episode_score_votes": 189,
+                    "rating": 7.5,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Roadtrip"
+                },
+                {
+                    "episode_description": "Joey finds it hard to get in the Christmas spirit due to the Californian heat, while Gina even stopped buying a three when Michael lost his naive Christmas faith- at age three. Joey is in a new series, Powder Deep, where the rest of the cast is so green that he is the 'veteran' playing a patriarch in the snowy North, but he manages to upset the utterly obsessive producer Lauren Beck, so after spilling the beans on the next episode at a press conference he fears the missing last page of the new script probably means his character captain Powder's death in a bomb ...",
+                    "episode_num": 12,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616310/?ref_=ttep_ep12",
+                    "realease_date": "9 Dec. 2004",
+                    "episode_score_votes": 192,
+                    "rating": 8.0,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Plot Twist"
+                },
+                {
+                    "episode_description": "When Alex delights in Gina's home-made lasagna, she's taught to cook it for her husband, but later claims to have improved it with a secret ingredient- a duel is declared, to be jury-tasted by eager Joey and reluctant Michael. Joey ignores a warning from producer-director Lauren Beck not to get romantically involved with his show daughter-performer Katie, who strikes jealously when she erroneously thinks Joey hits on Lauren. Joey can't talk her over, asks his agent Bobbie, but she makes it even worse... Meanwhile the home-front forced Michael to pick from the equally ...",
+                    "episode_num": 13,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616319/?ref_=ttep_ep13",
+                    "realease_date": "6 Jan. 2005",
+                    "episode_score_votes": 206,
+                    "rating": 7.8,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Taste Test"
+                },
+                {
+                    "episode_description": "Joey can't persuade Laura to give him more then two tickets for his TV series' Deep Powder's fancy premiere, while he already promised to take the whole home gang along, so he fixes the ladies up with dates from the production team: Alex gets an older lesbian, Gina his otherwise unknown manager Martin, who didn't even want to come, but turns out to be Laura's ex and nightmare. Only Michael gets Joey's own guest ticket, but loses interest in a sexy girl, who clearly made a pass at him, when he spots actor Brent Spiner, who played his SciFi idol, Data (the android from ...",
+                    "episode_num": 14,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616312/?ref_=ttep_ep14",
+                    "realease_date": "13 Jan. 2005",
+                    "episode_score_votes": 205,
+                    "rating": 8.0,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Premiere"
+                },
+                {
+                    "episode_description": "When Bobbie finds Joey distracted, she recommends hiring a personal assistant, even though her PA, gay MBA Jason, is mainly used as an amusing buffoon. A combination of practical sense, understanding Joey's infantile mind and devoted loyalty clearly makes experienced Glen from Minnesota the obvious best choice. Life with a smart dogsbody proves much easier, until Glen dates Gina, who never has such a god date either... Meanwhile Alex tries to mediate between Michael and fellow nerd Seth Tobin, who wants to file alone a patent for a rocket protection substance they ...",
+                    "episode_num": 15,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616289/?ref_=ttep_ep15",
+                    "realease_date": "20 Jan. 2005",
+                    "episode_score_votes": 183,
+                    "rating": 7.4,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Assistant"
+                },
+                {
+                    "episode_description": "Joey and the gang get stuck in a traffic jam on his way to guest star on the Tonight Show.",
+                    "episode_num": 16,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616322/?ref_=ttep_ep16",
+                    "realease_date": "3 Feb. 2005",
+                    "episode_score_votes": 195,
+                    "rating": 7.7,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Tonight Show"
+                },
+                {
+                    "episode_description": "Joey flirts with a reporter in order for her to give him a good review in People Magazine. But he forgot that it's Valentines Day, so she thinks he's being serious.",
+                    "episode_num": 17,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616323/?ref_=ttep_ep17",
+                    "realease_date": "10 Feb. 2005",
+                    "episode_score_votes": 197,
+                    "rating": 7.6,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Valentine's Date"
+                },
+                {
+                    "episode_description": "Michael tries trash-talk believing he outclasses 'old' Uncle Joey in push-ups and chin-ups, only to find the sissy versions Gina invented to make him feel good don't count in the least... Joey is both nominated for an award for a scene he played as Dr. Drake Ramore, and the celebrity presenter for another of the same network's annual awards. Gina is proud to come, like Alex, but feels must uneasy wearing a glamor gown. Joey is so happy when he finally gets nominee Mariska Cechritapovich's Chechen name right, that he says it twice, which Mariska mistakes for the ...",
+                    "episode_num": 18,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616324/?ref_=ttep_ep18",
+                    "realease_date": "17 Feb. 2005",
+                    "episode_score_votes": 181,
+                    "rating": 7.4,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Wrong Name"
+                },
+                {
+                    "episode_description": "Gina is meanly jealous, Joey eager about a visit from their spoiled younger sister Mary Teresa, Michael can't even remember her. Foxy tropical fish clerk Joelle brings a black light for his aquarium home, obviously interested in Michael, but he won't let her into his room, clearly oblivious she's attracted; Joey refuses to tip him as pressure has always back-fired. The black-light proves the diamond engagement ring Mary Teresa got from her fianc\u00e9, water-bed salesman Walter, is fake, to Gina's delight, but kid sister decides to move in and live at Joey's expense. She ...",
+                    "episode_num": 19,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616300/?ref_=ttep_ep19",
+                    "realease_date": "24 Feb. 2005",
+                    "episode_score_votes": 190,
+                    "rating": 7.5,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Fancy Sister"
+                },
+                {
+                    "episode_description": "The Tribbiani boys are intrigued by a flow of beautiful girls to a new neighbor, delighted to find they're clients of Sara, a sexy photographer. Joey immediately decides to seduce her, but finds her as suave and not bent on commitment as himself. They go out, she even asks him and shares his New York taste, notably where it counts: Italian food. Joey likes her so much that he even becomes monogamous till their next date, again smoothly asked by Sara, then realizes he forgot to cancel a stripper-date, T-something (actually Charlene), and sends wisely reluctant Michael ...",
+                    "episode_num": 20,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616306/?ref_=ttep_ep20",
+                    "realease_date": "24 Mar. 2005",
+                    "episode_score_votes": 179,
+                    "rating": 7.7,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Neighbor"
+                },
+                {
+                    "episode_description": "Gina feels Joey's puppy-sweet assistant Glen isn't her kind of boy-friend, but instead of admitting he's too boring for her, the yellow bitch pretends the problem is him not getting on with Michael. So Glen takes the juvenile genius to Disneyland, only... Joey and Sara agreed to see other people, but he's still feeling jealous. Alex and her husband Eric Garrett are on trial-separation, meaning he moved temporarily to one of the flats next door. Joey laughed at Alex spying on Eric and a girl with binoculars, until she spots Sara on a date with Rick despite Joey's ...",
+                    "episode_num": 21,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616316/?ref_=ttep_ep21",
+                    "realease_date": "21 Apr. 2005",
+                    "episode_score_votes": 179,
+                    "rating": 7.6,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Spying"
+                },
+                {
+                    "episode_description": "Just when Joey decides to put aside his playboy ways, so he can be committed to Sara, Carmen Electra makes a guest appearance on his show. Alex asks for Gina's help in getting revenge on Eric for cheating on her.",
+                    "episode_num": 22,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616320/?ref_=ttep_ep22",
+                    "realease_date": "5 May 2005",
+                    "episode_score_votes": 187,
+                    "rating": 7.6,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Temptation"
+                },
+                {
+                    "episode_description": "The Tribbianis are pleasantly surprised Michael finally seems to get serious with a girl-friend, but when Gina manages to be presented finds Lorraine is her age, and has a daughter, Tanya, his age, as well as... Joey gets Bobbie to intercede with her brother at Newsweek to get his lover Sara a better job as photographer- but it's in Washington, D.C. ... Alex is a wreck because of her divorce, Howard's overtures don't help, nor Gina's crazy ideas.",
+                    "episode_num": 23,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616295/?ref_=ttep_ep23",
+                    "realease_date": "12 May 2005",
+                    "episode_score_votes": 171,
+                    "rating": 7.4,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Break-up"
+                },
+                {
+                    "episode_description": "Joey didn't get the lines for a Deep Powder promotion shot, and finds on air it's actually a viewer vote to decide whether his, Gunnar's or Bodie's character will die. Yet he worries more about handling Sara who asked him to live together. Once the couple realize neither is really ready for that, she makes a drastic choice... While Alex is returning to the dating scene, Michael accepts Joey's offer to ask Bobbie to help him and his mate Seth, who got them both removed from the ticket-line for the latest Star Wars movie, to get into a professional screening, but ...",
+                    "episode_num": 24,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616304/?ref_=ttep_ep24",
+                    "realease_date": "12 May 2005",
+                    "episode_score_votes": 176,
+                    "rating": 7.9,
+                    "season_num": 1,
+                    "episode_name": "Joey and the Moving In"
+                }
+            ]
+        },
+        {
+            "season-2": [
+                {
+                    "episode_description": "Joey and Alex barely realizing in the morning they took consoling each-others love-hurt straight into buff-sleeper Joey's bed, when Gina and Michael find them there. Gina did such a good job barking at Bobbie about her 'assaulting' Michael that the sleazy agent hired Gina as second assistant, veteran assistant Jason isn't dumb enough to help her getting worked in. Joey's character has won the televoting, so Bobbie demands better conditions, but pushes too far- he's killed off at Deep Powder, she is down to her last marker to get him an audition for an independent ...",
+                    "episode_num": 1,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616292/?ref_=ttep_ep1",
+                    "realease_date": "22 Sep. 2005",
+                    "episode_score_votes": 157,
+                    "rating": 7.2,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Big Break: Part 1"
+                },
+                {
+                    "episode_description": "Joey has made a mess of his last chance movie audition and hits rock bottom when harpy Gina, who Bobbie assigned to bring all her bad news, asks him how to do so with actors and starts using his own line on Joey, repeatedly. Michael is happy when date with Jenna, who mistakes him for cool actor Joey, made him 'no longer a virgin above the belt', but needs the real Joey to play him, nerd Michael, on a double date with her visiting cousin Marci, who just ended military service. Alex isn't pleased with 'generic' wooing and hands Joey 'homework' to understand her better. ...",
+                    "episode_num": 2,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616293/?ref_=ttep_ep2",
+                    "realease_date": "22 Sep. 2005",
+                    "episode_score_votes": 158,
+                    "rating": 7.3,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Big Break: Part 2"
+                },
+                {
+                    "episode_description": "On set, Joey is confronted with an overly bossy child actor. Gina organizes an audition to find Alex a date.",
+                    "episode_num": 3,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616315/?ref_=ttep_ep3",
+                    "realease_date": "29 Sep. 2005",
+                    "episode_score_votes": 177,
+                    "rating": 7.1,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Spanking"
+                },
+                {
+                    "episode_description": "Joey gets his stuntman to do everything he wants, Michael dates a script supervisor whom Joey hates, and Alex is confused about her feelings for Joey.",
+                    "episode_num": 4,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616318/?ref_=ttep_ep4",
+                    "realease_date": "6 Oct. 2005",
+                    "episode_score_votes": 162,
+                    "rating": 7.4,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Stuntman"
+                },
+                {
+                    "episode_description": "Joey decides to buy a huge house, against Gina's advice. They end up having to pretend they are married with child. Alex helps Bobbie go through anger management.",
+                    "episode_num": 5,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616302/?ref_=ttep_ep5",
+                    "realease_date": "13 Oct. 2005",
+                    "episode_score_votes": 170,
+                    "rating": 7.4,
+                    "season_num": 2,
+                    "episode_name": "Joey and the House"
+                },
+                {
+                    "episode_description": "Joey joins an English as a Second Language class to seduce a woman, and Gina has to find a new client for Bobbie.",
+                    "episode_num": 6,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616299/?ref_=ttep_ep6",
+                    "realease_date": "20 Oct. 2005",
+                    "episode_score_votes": 157,
+                    "rating": 7.2,
+                    "season_num": 2,
+                    "episode_name": "Joey and the ESL"
+                },
+                {
+                    "episode_description": "Alex teaches Joey fake poker rules to keep him away from a girl. Joey then plays along those rules at \"Celebrity Poker Showdown\", and gets into trouble.",
+                    "episode_num": 7,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616311/?ref_=ttep_ep7",
+                    "realease_date": "3 Nov. 2005",
+                    "episode_score_votes": 162,
+                    "rating": 7.4,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Poker"
+                },
+                {
+                    "episode_description": "Joey is practicing how to make his entry at Ellen's talk-show, and believed with Bobbie his celebrity status can only grow as it attracts a nobody threatening to publish a sex video from his past, but pales when he hears her name: Celeste, the first girl he ever loved and not only had but 'accidentally' proposed to but left by the fire-escaped and never talked to again in twenty years, now she demands satisfaction on air... Gina stands in for Bobbie's medical as the boss approaches 40, which she didn't tell her or Joey, so Gina and Alex fear the brutal alcoholic is ...",
+                    "episode_num": 8,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616314/?ref_=ttep_ep8",
+                    "realease_date": "10 Nov. 2005",
+                    "episode_score_votes": 161,
+                    "rating": 7.3,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Sex Tape"
+                },
+                {
+                    "episode_description": "Joey is trying to impress his girlfriend Candace, who he hired as interior decorator, but is instantly and intensely disliked by her grandmother Gloria, who says he resembles her hated ex Herman. When the director of her rest home's annual musical is sick, Joey saves the play by directing, with Zach, who is actually fairly good at it. Bobbie's mother, an even more overbearing harpy, demands a lead. When perfectionist Zach fires Gloria, Joey takes over, but stinks at directing, and even when Zach returns... Meanwhile Alex and her ex Eric are dividing their possessions,...",
+                    "episode_num": 9,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616305/?ref_=ttep_ep9",
+                    "realease_date": "17 Nov. 2005",
+                    "episode_score_votes": 163,
+                    "rating": 6.9,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Musical"
+                },
+                {
+                    "episode_description": "Joey was looking forward to show Alex as first visitor his finished villa, but Gina has seduced the guard to get in with a whole crew for Thanksgiving decorations: it's the only day that makes her mushy, endless and mindless 'respect' for the fate of their Italian forefathers passing Ennis Island, even Alex is enlisted for the horrible play. Joey is enchanted by his neighbour Dean, a 50-year old party-bachelor, and soon passes over to his hot party which even has George Hamilton, later even Michael, but Gina... Meanwhile Ray from the Indian society has found out they ...",
+                    "episode_num": 10,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616290/?ref_=ttep_ep10",
+                    "realease_date": "24 Nov. 2005",
+                    "episode_score_votes": 157,
+                    "rating": 7.2,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Bachelor Thanksgiving"
+                },
+                {
+                    "episode_description": "Joey receives the visit of his lost friend.",
+                    "episode_num": 11,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616301/?ref_=ttep_ep11",
+                    "realease_date": "8 Dec. 2005",
+                    "episode_score_votes": 154,
+                    "rating": 7.7,
+                    "season_num": 2,
+                    "episode_name": "Joey and the High School Friend"
+                },
+                {
+                    "episode_description": "Joey helps Michael to forget his ex-girlfriend, by going on a trip to Tijuana.",
+                    "episode_num": 12,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616321/?ref_=ttep_ep12",
+                    "realease_date": "15 Dec. 2005",
+                    "episode_score_votes": 169,
+                    "rating": 8.1,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Tijuana Trip"
+                },
+                {
+                    "episode_description": "Joey takes Gina's warning he cannot ruin their friendship by going to bed with Alex (again), but finds it very hard to turn off the mood, while she feels undesirable when he manages. Joey throws a Christmas party, using his celebrity status to make it attend by a host of desirable young females; Alex refuses to stay being too hurt, but did arranged in advance for his seasonal wish to come true: snow, but when he sees it she has thrown herself in the arms of ... Meanwhile Bobbie has a weird relationship with an overbearing older Britton with a cane and a worse attitude...",
+                    "episode_num": 13,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0616296/?ref_=ttep_ep13",
+                    "realease_date": "15 Dec. 2005",
+                    "episode_score_votes": 157,
+                    "rating": 7.7,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Christmas Party"
+                },
+                {
+                    "episode_description": "Joey has seen Alex started a relationship with his neighbor-friend-lover Alex, which he officially dumped, and feels jealous, but wrestles with the dating honor-code which forbids moving in on a mate's girl... Meanwhile Bobbie has arranged for Joey to get his own action figure on sale, but the Korean manufacturer got his anatomy embarrassingly wrong; second version no better but... Yet the dominant problem is that Gina announces another pregnancy, again with accidental father Jimmy, who is shocked but tries in his way to do the right thing. Michael hasn't decided yet ...",
+                    "episode_num": 14,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0768294/?ref_=ttep_ep14",
+                    "realease_date": "7 Mar. 2006",
+                    "episode_score_votes": 154,
+                    "rating": 7.2,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Snowball Fight"
+                },
+                {
+                    "episode_description": "Joey invites his father to the big premiere of his last movie. But Joey's father doesn't seems to much interested about it.",
+                    "episode_num": 15,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0772511/?ref_=ttep_ep15",
+                    "realease_date": "11 Apr. 2006",
+                    "episode_score_votes": 161,
+                    "rating": 7.2,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Dad"
+                },
+                {
+                    "episode_description": "Joey is tired of being the friend on whose shoulder Alex comes cry while his mate-idol Dean has all the real fun, so he takes Zach's suggestion to make use of her 30th birthday to throw her a party while Dean is out of town for business. When Dean changes his mind, Joey pretends he only expects Marci, his fan-stalker 'crazy in every room', but Dean not only plans a grand birthday party, he even shows Joey a ring to propose to Alex... Meanwhile Michael's plan to be the party's DJ is sabotaged by not plugging in his equipment, while Gina and Jimmy announce they are ...",
+                    "episode_num": 16,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0813583/?ref_=ttep_ep16",
+                    "realease_date": "9 May 2006",
+                    "episode_score_votes": 147,
+                    "rating": 7.2,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Party for Alex"
+                },
+                {
+                    "episode_description": "Joey finally has his grand home ready as love palace, and Howard got him movers- the board of his bank! Alas, after handing the apartment over to Michael, Joey sees on his car TV a villa zone on fire in the Hollywood Hills and a yellow van just like his blocking the firemen- both his and a total burn-up! Either Alex, Gina or Michael must have caused the fire, but neither dares owe up. Joey must now again stay 'at Michael's place', already transformed into his Trekkie nerd mates' Enterprise simulation, in a bunk-bed under total virgin Arthur... Meanwhile Joey has ...",
+                    "episode_num": 17,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0763265/?ref_=ttep_ep17",
+                    "realease_date": "2006",
+                    "episode_score_votes": 153,
+                    "rating": 7.3,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Big Move"
+                },
+                {
+                    "episode_description": "Joey and Michael find Jimmy squatting in Joey's burned-out villa, so they suggest he moves in with lover Gina; the couple fights so much they have lots of make-up sex fun, yet Jimmy still spends more time letting off steam against the Tribbiani boys, ordering them to face the table in Joey's own home, then at Gina's place. Bobbie has arranged for Joey to go out as 'beard' (fake date) with popular actress Edie but Gina deliberately 'forgets' to tell Joey -not his house-mates- she's a lesbian; he still comes to care for Edie, and encourages her to come out of the closet...",
+                    "episode_num": 18,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0799153/?ref_=ttep_ep18",
+                    "realease_date": "1 Jul. 2006",
+                    "episode_score_votes": 154,
+                    "rating": 7.3,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Beard"
+                },
+                {
+                    "episode_description": "After his movie's success, Joey's next step up is gaining creative control (in his mind, the right to cast hooters to his liking) by starting his own production company now Bobbie got him a three movies deal. Joey decides he wants to hire as development executive for his new cool office Jimmy, who understands far more about movies and always wasted his genius (Michael's smart genes) sucking at lousy jobs. James 'Jimmy' Costa insists to do an interview, is his usual rude daft self but Joey twists Warner Bros. VP Trent (whom he still can't recognize after 30 meetings)'s...",
+                    "episode_num": 19,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0786155/?ref_=ttep_ep19",
+                    "realease_date": "8 Jul. 2006",
+                    "episode_score_votes": 164,
+                    "rating": 7.4,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Critic"
+                },
+                {
+                    "episode_description": "Joey's acting career in Actors Studio is a success, but when the audience may raise questions it's all girls who wine about him dating and then dumping them, just now he tries to convince Alex to let him take Dean's place. 'Bastard' Michael is excited to hear his dad Jimmy intends to marry his mother Gina; hearing he lacks money for a ring, ring-bearer-to-be Michael suggests his college's well-payed allergy drug test- they only take duos, so Joey grudgingly takes the same pills and gets massive side-effects, although Michael knows he is in the control group which only...",
+                    "episode_num": 20,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0799152/?ref_=ttep_ep20",
+                    "realease_date": "15 Jul. 2006",
+                    "episode_score_votes": 152,
+                    "rating": 7.3,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Actors Studio"
+                },
+                {
+                    "episode_description": "Just now Alex has turned sexual on Joey, Gina convinces him they need more 'meaningful' moments. Joey finds an engagement ring in Jimmy's pocket, and Gina overhears him, so the proposal is rushed most unromantically; when she sells it to buy a car, he's vexed; Joey suggest counseling from father O'Neill; his sharing secrets test brings out a big one: Jimmy married older Tracy for her money, and never got divorced... When Michael is excited about his hot-sounding Internet mate SexySteve87, Joey is convinced that must be a man and talks him out of a Las Vegas date.",
+                    "episode_num": 21,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0823053/?ref_=ttep_ep21",
+                    "realease_date": "17 Jun. 2006",
+                    "episode_score_votes": 163,
+                    "rating": 7.4,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Holding Hands"
+                },
+                {
+                    "episode_description": "Joey and Alex are ecstatic when Jimmy announces he's about to marry Gina and asks Joey as best man, but Jimmy warns him dames Alex's age want the ring very fast- only when she tells Joey she's trough with marriage forever - Michael assumes the best man position is naturally his as Gina's only son, and Joey can't bring himself to tell him. On the day, both Jimmy and Gina make a run for it - Joey was also looking forward to throwing the first baseball at a Dodgers game, but Jimmy made him realize how stressing the risk of looking foolish can be.",
+                    "episode_num": 22,
+                    "episode_imdb_link": "http://www.imdb.com/title/tt0786156/?ref_=ttep_ep22",
+                    "realease_date": "29 Jul. 2006",
+                    "episode_score_votes": 217,
+                    "rating": 7.7,
+                    "season_num": 2,
+                    "episode_name": "Joey and the Wedding"
+                }
+            ]
+        }
+    ],
+    "imdb_link": "http://www.imdb.com/title/tt0375355/?ref_=ttep_ep_tt",
+    "creators": [
+        "Shana Goldberg-Meehan",
+        "Scott Silveri",
+        "Silver and Gold Productions",
+        "Bright-San Productions",
+        "Warner Bros. Television"
+    ],
+    "languages": [
+        "English"
+    ],
+    "season_description": "(1994), Joey Tribbiani moves to Los Angeles to pursue his acting career.",
+    "imdb_score_votes": 37596,
+    "total_episodes": 46,
+    "duration": "22min",
+    "release_dates": "2004\u20132006",
+    "season_ratings": "6.0",
+    "content_rating": "TV-14",
+    "cast": [
+        "Matt LeBlanc",
+        "Andrea Anders",
+        "Paulo Costanzo",
+        "Jennifer Coolidge",
+        "Drea de Matteo"
+    ],
+    "title": "Joey",
+    "rating_details": {
+        "males": {
+            "aged_under_18": {
+                "total_votes": 30,
+                "rating": 6.6
+            },
+            "aged_over_45": {
+                "total_votes": 1461,
+                "rating": 5.2
+            },
+            "aged_30_44": {
+                "total_votes": 11770,
+                "rating": 5.9
+            },
+            "all_votes": {
+                "total_votes": 25778,
+                "rating": 6.1
+            },
+            "aged_18_29": {
+                "total_votes": 11869,
+                "rating": 6.4
+            }
+        },
+        "females": {
+            "aged_under_18": {
+                "total_votes": 11,
+                "rating": 6.8
+            },
+            "aged_over_45": {
+                "total_votes": 368,
+                "rating": 5.2
+            },
+            "aged_30_44": {
+                "total_votes": 2851,
+                "rating": 5.3
+            },
+            "all_votes": {
+                "total_votes": 7121,
+                "rating": 5.6
+            },
+            "aged_18_29": {
+                "total_votes": 3697,
+                "rating": 5.9
+            }
+        },
+        "rating_page_link": "http://www.imdb.com/title/tt0375355/ratings?ref_=tt_ov_rt",
+        "total_votes": 37596,
+        "votes_per_ratings": {
+            "7": 6584,
+            "4": 2681,
+            "10": 5207,
+            "3": 1770,
+            "2": 1225,
+            "1": 1974,
+            "9": 2289,
+            "6": 6537,
+            "8": 4646,
+            "5": 4683
+        },
+        "all_genders": {
+            "aged_under_18": {
+                "total_votes": 41,
+                "rating": 6.8
+            },
+            "aged_over_45": {
+                "total_votes": 1852,
+                "rating": 5.2
+            },
+            "aged_30_44": {
+                "total_votes": 14745,
+                "rating": 5.8
+            },
+            "all_votes": {
+                "total_votes": 37596,
+                "rating": 6.0
+            },
+            "aged_18_29": {
+                "total_votes": 15653,
+                "rating": 6.3
+            }
+        }
+    }
+}

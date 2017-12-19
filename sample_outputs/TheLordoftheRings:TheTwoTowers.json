@@ -1,0 +1,124 @@
+{
+    "season_description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "total_seasons": 1,
+    "duration": "2h 59min",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "content_rating": "PG-13",
+    "imdb_link": "http://www.imdb.com/title/tt0167261/?ref_=tt_rec_tt",
+    "imdb_score_votes": 1221171,
+    "creators": [
+        "Peter Jackson"
+    ],
+    "season_ratings": "8.7",
+    "release_dates": "18 December 2002 (USA)",
+    "total_episodes": 1,
+    "cast": [
+        "Bruce Allpress",
+        "Sean Astin",
+        "John Bach",
+        "Sala Baker",
+        "Cate Blanchett",
+        "Orlando Bloom",
+        "Billy Boyd",
+        "Jed Brophy",
+        "Sam Comery",
+        "Brad Dourif",
+        "Calum Gittins",
+        "Bernard Hill",
+        "Bruce Hopkins",
+        "Paris Howe Strewe",
+        "Christopher Lee"
+    ],
+    "rating_details": {
+        "total_votes": 1221171,
+        "females": {
+            "all_votes": {
+                "rating": 8.7,
+                "total_votes": 170566
+            },
+            "aged_over_45": {
+                "rating": 8.4,
+                "total_votes": 14566
+            },
+            "aged_under_18": {
+                "rating": 8.7,
+                "total_votes": 650
+            },
+            "aged_30_44": {
+                "rating": 8.6,
+                "total_votes": 62624
+            },
+            "aged_18_29": {
+                "rating": 8.8,
+                "total_votes": 82963
+            }
+        },
+        "votes_per_ratings": {
+            "3": 5724,
+            "10": 429872,
+            "9": 345228,
+            "2": 5057,
+            "5": 16846,
+            "4": 7733,
+            "7": 105276,
+            "1": 19305,
+            "6": 36370,
+            "8": 249760
+        },
+        "rating_page_link": "http://www.imdb.com/title/tt0167261/ratings?ref_=tt_ov_rt",
+        "males": {
+            "all_votes": {
+                "rating": 8.7,
+                "total_votes": 784950
+            },
+            "aged_over_45": {
+                "rating": 8.5,
+                "total_votes": 68345
+            },
+            "aged_under_18": {
+                "rating": 8.9,
+                "total_votes": 2657
+            },
+            "aged_30_44": {
+                "rating": 8.6,
+                "total_votes": 333280
+            },
+            "aged_18_29": {
+                "rating": 8.9,
+                "total_votes": 334456
+            }
+        },
+        "all_genders": {
+            "all_votes": {
+                "rating": 8.7,
+                "total_votes": 1221171
+            },
+            "aged_over_45": {
+                "rating": 8.5,
+                "total_votes": 84332
+            },
+            "aged_under_18": {
+                "rating": 8.9,
+                "total_votes": 3326
+            },
+            "aged_30_44": {
+                "rating": 8.6,
+                "total_votes": 400774
+            },
+            "aged_18_29": {
+                "rating": 8.9,
+                "total_votes": 420797
+            }
+        }
+    },
+    "languages": [
+        "English",
+        "Sindarin",
+        "Old English"
+    ],
+    "title": "The Lord of the Rings: The Two Towers"
+}

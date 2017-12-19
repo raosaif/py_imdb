@@ -1,0 +1,123 @@
+{
+    "release_dates": "19 December 2001 (USA)",
+    "content_rating": "PG-13",
+    "season_ratings": "8.8",
+    "duration": "2h 58min",
+    "total_episodes": 1,
+    "cast": [
+        "Alan Howard",
+        "Noel Appleby",
+        "Sean Astin",
+        "Sala Baker",
+        "Sean Bean",
+        "Cate Blanchett",
+        "Orlando Bloom",
+        "Billy Boyd",
+        "Marton Csokas",
+        "Megan Edwards",
+        "Michael Elsworth",
+        "Mark Ferguson",
+        "Ian Holm",
+        "Christopher Lee",
+        "Lawrence Makoare"
+    ],
+    "rating_details": {
+        "total_votes": 1369330,
+        "all_genders": {
+            "aged_under_18": {
+                "total_votes": 3774,
+                "rating": 8.9
+            },
+            "aged_over_45": {
+                "total_votes": 99490,
+                "rating": 8.6
+            },
+            "all_votes": {
+                "total_votes": 1369330,
+                "rating": 8.8
+            },
+            "aged_30_44": {
+                "total_votes": 451557,
+                "rating": 8.7
+            },
+            "aged_18_29": {
+                "total_votes": 460819,
+                "rating": 8.9
+            }
+        },
+        "votes_per_ratings": {
+            "6": 37786,
+            "5": 18477,
+            "8": 253625,
+            "10": 527501,
+            "4": 8938,
+            "7": 106691,
+            "3": 7015,
+            "1": 24988,
+            "2": 5973,
+            "9": 378336
+        },
+        "males": {
+            "aged_under_18": {
+                "total_votes": 2964,
+                "rating": 8.9
+            },
+            "aged_over_45": {
+                "total_votes": 80661,
+                "rating": 8.6
+            },
+            "all_votes": {
+                "total_votes": 872605,
+                "rating": 8.8
+            },
+            "aged_30_44": {
+                "total_votes": 374448,
+                "rating": 8.7
+            },
+            "aged_18_29": {
+                "total_votes": 363646,
+                "rating": 9.0
+            }
+        },
+        "females": {
+            "aged_under_18": {
+                "total_votes": 790,
+                "rating": 8.8
+            },
+            "aged_over_45": {
+                "total_votes": 17035,
+                "rating": 8.6
+            },
+            "all_votes": {
+                "total_votes": 193741,
+                "rating": 8.8
+            },
+            "aged_30_44": {
+                "total_votes": 71382,
+                "rating": 8.8
+            },
+            "aged_18_29": {
+                "total_votes": 93452,
+                "rating": 8.9
+            }
+        },
+        "rating_page_link": "http://www.imdb.com/title/tt0120737/ratings?ref_=tt_ov_rt"
+    },
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "creators": [
+        "Peter Jackson"
+    ],
+    "imdb_link": "http://www.imdb.com/title/tt0120737/?ref_=nv_sr_1",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "imdb_score_votes": 1369330,
+    "total_seasons": 1,
+    "languages": [
+        "English",
+        "Sindarin"
+    ],
+    "season_description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron."
+}
